@@ -13,6 +13,4 @@ Join the meeting click on the link: *https://ietf.webex.com/meet/ietfsidemeeting
 **Hardware-Accelerated Multi-Plane Networking for Large-Scale AI Training**   
 Jeff Tantsura (Nvidia)
 
-3. 17:30 - 18:25   
-**Network requirements for cross site training**  
-Aditya Mahale (OpenAI)
+
